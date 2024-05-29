@@ -313,7 +313,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(../png/college_campus_blesur-removebg-preview.png);
+        background-image: url(./png/college_campus_blesur-removebg-preview.png);
     } 
     .header-text{
         margin-top: 100%;
