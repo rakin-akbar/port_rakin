@@ -6,12 +6,12 @@
 }
 body{
     background-color: rgb(11, 11, 11);
-    color: rgb(116, 154, 225);
+    color: rgb(209, 219, 236);
 }
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(./png/college_campus_blesur-removebg-preview.png);
+    background-image: url(./images/hitech.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -33,7 +33,7 @@ nav ul li{
     margin: 10px 20px;
 }
 nav ul li a{
-    color: rgb(107, 148, 231);
+    color: rgb(234, 235, 238);
     text-decoration: none;
     font-size: 18px;
     position: relative;
@@ -42,7 +42,7 @@ nav ul li a::after{
     content: '';
     width: 0;
     height: 3px;
-    background: rgb(95, 16, 16);
+    background: rgb(233, 233, 230);
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -268,7 +268,7 @@ margin: 10 px 0px;
     transition: transform 0.5s;
 }
 .social-icon a:hover{
-    color: darkblue;
+    color: rgb(77, 77, 190);
     transform: translateY(-5px);
 }
 .btn.btn2{
